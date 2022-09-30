@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ChurchPlanner</string>
+    <string name="companyName">reserve a seat</string>
+    <string name="title">Welcome !</string>
+    <string name="guestBtnText">Enter as Guest</string>
+    <string name="adminBtnText">Enter as Admin</string>
+    <string name="aboutUs">About Us</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="selectMovieAdmin">Service scheduler</string>
+    <string name="txtSelectDate">Select Date</string>
+    <string name="txtstartTime">Start-Time</string>
+    <string name="txtRunTime">Run-Time </string>
+    <string name="txtCleaningTime">Cleaning-Time</string>
+    <string name="txtCloseTime">servicee-CloseTime</string>
+    <string name="btnSchedule">Schedule</string>
+    <string name="selectMovieGuest">Select a service to attend</string>
+    <string name="textViewDate">Select Date</string>
+    <string name="textViewDate1">dd/mm/yy</string>
+    <string name="spinnerDate">Schedule</string>
+    <string name="textViewTime">Select Time</string>
+    <string name="textViewTime1">00 : 00 : 00</string>
+    <string name="spinnerTime">Schedule</string>
+    <string name="textViewTickets">Select a seat</string>
+    <string name="textLogin">Log In</string>
+    <string name="txtLogin">LOGIN</string>
+    <string name="txtRegister">REGISTER</string>
+    <string name="btnPickDate">Pick Date</string>
+    <string name="goBack">Back to HomePage</string>
+    <string name="txtMovieScheduled">service Scheduled</string>
+    <string name="aboutUscontent">Email us.</string>
+    <string name="contactUsContent"><![CDATA[ Feel free to request for any church resources that will build our faith to grow in Christ carenshakiro@gmail.com]]></string>
+    <string name="btnProceedToPay">Select Seats</string>
+    <string name="pickSeatTitle">Pick Your Seats</string>
+    <string name="btnConfirmSeats">Confirm Seats and pay</string>
+    <string name="receiptTitle">Your Receipt</string>
+    <string name="printTicket">Print report</string>
+    <string name="ticketTitle">Your seat</string>
+    <string name="btnbookAnother">Book another seat</string>
+
+</resources>

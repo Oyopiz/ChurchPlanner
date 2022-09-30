@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/drawable/edit_bg.xml" value="0.2325" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_about_us.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_contact_us.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_login.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_movie_scheduler.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_movie_scheduler2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_payment.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_pick_movie_guest.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_pick_seat.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/activity_ticket.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/ChurchPlanner/app/src/main/res/layout/custom_items.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
